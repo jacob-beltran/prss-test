@@ -1,0 +1,3 @@
+Sitemap: http://prss-test.jacobbeltran.com/sitemap.xml
+User-agent:*
+Disallow:
